@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite Prueba Selenium Nro 1]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Pruebas regresion(failed)">
+    <classes>
+      <class name="tests.CasosDePrueba">
+        <methods>
+          <include name="preparacion"/>
+          <include name="preparacionTests"/>
+          <include name="CP001_FlujoPostulacion_Paso2_ComunaOK"/>
+          <include name="posTests"/>
+          <include name="CP003"/>
+          <include name="CP002"/>
+        </methods>
+      </class> <!-- tests.CasosDePrueba -->
+    </classes>
+  </test> <!-- Pruebas regresion(failed) -->
+</suite> <!-- Failed suite [Suite Prueba Selenium Nro 1] -->
