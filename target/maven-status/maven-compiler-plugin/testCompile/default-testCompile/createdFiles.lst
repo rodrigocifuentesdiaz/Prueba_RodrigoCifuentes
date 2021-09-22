@@ -1,0 +1,6 @@
+utils\PropertiesDriven.class
+tests\CasosDePrueba.class
+utils\ClaseBase.class
+pages\PostulaPage.class
+utils\DataDriven.class
+pages\HomePage.class

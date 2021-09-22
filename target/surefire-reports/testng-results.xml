@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-09T21:22:47Z" name="Suite Prueba Selenium Nro 1" finished-at="2021-09-09T21:23:09Z" duration-ms="22364">
+    <groups>
+    </groups>
+    <test started-at="2021-09-09T21:22:47Z" name="Pruebas regresion" finished-at="2021-09-09T21:23:09Z" duration-ms="22364">
+      <class name="tests.CasosDePrueba">
+        <test-method is-config="true" signature="preparacion()[pri:0, instance:tests.CasosDePrueba@29ba4338]" started-at="2021-09-09T21:22:47Z" name="preparacion" finished-at="2021-09-09T21:22:48Z" duration-ms="1312" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preparacion -->
+        <test-method is-config="true" signature="preparacionTests()[pri:0, instance:tests.CasosDePrueba@29ba4338]" started-at="2021-09-09T21:22:48Z" name="preparacionTests" finished-at="2021-09-09T21:22:54Z" duration-ms="5836" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preparacionTests -->
+        <test-method signature="CP001_FlujoPostulacion_Paso2_ComunaOK()[pri:0, instance:tests.CasosDePrueba@29ba4338]" started-at="2021-09-09T21:22:54Z" name="CP001_FlujoPostulacion_Paso2_ComunaOK" finished-at="2021-09-09T21:23:07Z" duration-ms="12586" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CP001_FlujoPostulacion_Paso2_ComunaOK -->
+        <test-method is-config="true" signature="preparacionTests()[pri:0, instance:tests.CasosDePrueba@29ba4338]" started-at="2021-09-09T21:23:07Z" name="preparacionTests" finished-at="2021-09-09T21:23:08Z" duration-ms="1507" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preparacionTests -->
+        <test-method is-config="true" signature="posTests()[pri:0, instance:tests.CasosDePrueba@29ba4338]" started-at="2021-09-09T21:23:07Z" name="posTests" finished-at="2021-09-09T21:23:07Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- posTests -->
+        <test-method signature="CP002()[pri:0, instance:tests.CasosDePrueba@29ba4338]" started-at="2021-09-09T21:23:08Z" name="CP002" finished-at="2021-09-09T21:23:08Z" duration-ms="73" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CP002 -->
+        <test-method is-config="true" signature="preparacionTests()[pri:0, instance:tests.CasosDePrueba@29ba4338]" started-at="2021-09-09T21:23:08Z" name="preparacionTests" finished-at="2021-09-09T21:23:09Z" duration-ms="981" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preparacionTests -->
+        <test-method is-config="true" signature="posTests()[pri:0, instance:tests.CasosDePrueba@29ba4338]" started-at="2021-09-09T21:23:08Z" name="posTests" finished-at="2021-09-09T21:23:08Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- posTests -->
+        <test-method signature="CP003()[pri:0, instance:tests.CasosDePrueba@29ba4338]" started-at="2021-09-09T21:23:09Z" name="CP003" finished-at="2021-09-09T21:23:09Z" duration-ms="50" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CP003 -->
+        <test-method is-config="true" signature="posTests()[pri:0, instance:tests.CasosDePrueba@29ba4338]" started-at="2021-09-09T21:23:09Z" name="posTests" finished-at="2021-09-09T21:23:09Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- posTests -->
+      </class> <!-- tests.CasosDePrueba -->
+    </test> <!-- Pruebas regresion -->
+  </suite> <!-- Suite Prueba Selenium Nro 1 -->
+</testng-results>
