@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite Prueba Selenium Nro 1">
+	<test name="Pruebas regresion">
+		<classes>
+			<class name="tests.CasosDePrueba">
+			</class>
+		</classes>
+	</test>
+</suite>
